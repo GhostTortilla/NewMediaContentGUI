@@ -1,4 +1,4 @@
-# PlexNewContentGUI
+# New Media Content GUI
 Small GUI To send Discord Webhook embeds to a Discord server
 
 GUI is mostly focused on Anime, but can easily be changed to any other need.
