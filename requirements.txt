@@ -1,0 +1,2 @@
+discordpy=2.1.0
+customtkinter=5.0.2
